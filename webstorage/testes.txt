@@ -1,0 +1,15 @@
+//localStorage.setItem("nome", "valor")
+
+//localStorage.getItem("nome")
+
+//rodar no console do navegador
+
+
+//forma mais pratica
+
+
+//cadrastar = localStorage.nome = "Matheus";
+
+//puxar = localStorage.nome;
+
+//remover = localStorage.removeItem("nome");
