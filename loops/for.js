@@ -1,3 +1,3 @@
-for(a = 0; a < 10; a++){
-    console.log("O valor do x e:" + a)
-} 
+for(x = 0; x < 15; x++){
+    console.log("funfo" + x);
+}
